@@ -9,8 +9,7 @@
     "build": "mkdir -p dist && node ./bin/build.js && npm run min"
   },
   "dependencies": {
-    "babel-runtime": "^4.6.3",
-    "pouchdb": "^3.3.1"
+    "babel-runtime": "^4.6.3"
   },
   "devDependencies": {
     "babelify": "^5.0.3",

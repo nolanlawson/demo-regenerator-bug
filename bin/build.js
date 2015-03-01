@@ -2,7 +2,7 @@
 
 var inputFile = "./lib/index.js";
 var outputFile = "./dist/async-functions-in-pouchdb.js";
-var standalone = "asyncFunctionsInPouchDB";
+var standalone = "asyncFunctionsDemo";
 
 var browserify = require("browserify");
 var babelify = require("babelify");
